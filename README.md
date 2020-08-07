@@ -1,3 +1,3 @@
-# misc_c_programs
+# miscC
 
 Small programs in C targeting classic computer science problems.
